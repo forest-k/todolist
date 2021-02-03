@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Test = styled.div`
   width: 20px;
   height: 20px;
-  background: black;
+  background: yellow;
 `;
 
 const TodoTemplateWrap = styled.div`
